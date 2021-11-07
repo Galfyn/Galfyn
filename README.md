@@ -5,13 +5,8 @@
 
 <b>Mainly school projects will be located here.
 # 42Cursus stats
-  <table>
-<tr align="center">
-  
 [![Stats](https://badge42.herokuapp.com/api/stats/galfyn)](https://github.com/JaeSeoKim/badge42)
-  
-    </tr>
-  </table>
+
 
 # 42Cursus project
 | No  | Project                                    | Status                                                                                                         | No  | Project                                     | Status |
