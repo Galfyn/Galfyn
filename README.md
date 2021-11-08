@@ -17,4 +17,4 @@
 | 4   | [Get_next_line](../../../GNL)              | ![success](https://img.shields.io/badge/-Success%20115%2f100-green?style=plastic&logo=42&logoColor=090909)     |  11  | CPP Module                                 | ![Unavailable](https://img.shields.io/badge/-Unavailable-red?style=plastic&logo=42&logoColor=090909)   |
 | 5   | [So_long](../../../so_long1)               | ![success](https://img.shields.io/badge/-Success%20120%2f100-green?style=plastic&logo=42&logoColor=090909)     |  12  | NetPractice                                | ![Unavailable](https://img.shields.io/badge/-Unavailable-red?style=plastic&logo=42&logoColor=090909)   |
 | 6   | [Push_swap](../../../Push_swap)            | ![success](https://img.shields.io/badge/-Success%20100%2f100-green?style=plastic&logo=42&logoColor=090909)     |
-| 7   | Pipex                                      | ![Performed](https://img.shields.io/badge/-Performed-9cf?style=plastic&logo=42&logoColor=090909)               |
+| 7   | [Pipex](../../../pipex)                    | ![Performed](https://img.shields.io/badge/-Performed-9cf?style=plastic&logo=42&logoColor=090909)               |
